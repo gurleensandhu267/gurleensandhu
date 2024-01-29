@@ -1,3 +1,3 @@
 # gurleensandhu
-gaming,sales and inventory etc.
-books
+gaming,sales and inventory etc
+book
